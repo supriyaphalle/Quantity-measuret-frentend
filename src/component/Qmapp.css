@@ -1,0 +1,23 @@
+
+ .basecard{
+  width: 1050px;
+  height : 350px;
+  /* display: flex; */
+  }
+  .valueField{
+  display:flex; 
+  flex-direction: row;
+  justify-content:space-around;
+  align-content: center;
+  margin-top: 7%;
+}
+
+.field{
+  display:flex; 
+  flex-direction: row;
+  justify-content:space-around;
+  align-content: center;
+  margin-top: 7%;
+}
+
+  
